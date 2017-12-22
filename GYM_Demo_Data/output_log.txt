@@ -19,13 +19,13 @@ Platform assembly: C:\Users\UTILISATEUR\Documents\GYM_Personnel\GYM_Demo_Data\Ma
 Loading C:\Users\UTILISATEUR\Documents\GYM_Personnel\GYM_Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
 Platform assembly: C:\Users\UTILISATEUR\Documents\GYM_Personnel\GYM_Demo_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\UTILISATEUR\Documents\GYM_Personnel\GYM_Demo_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.022 seconds
+- Completed reload, in  0.058 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.792062 ms
+UnloadTime: 0.814399 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1e0c -> priority: 1 
-  Thread -> id: 151c -> priority: 1 
-  Thread -> id: 1b50 -> priority: 1 
-  Thread -> id: 2890 -> priority: 1 
+  Thread -> id: b3c -> priority: 1 
+  Thread -> id: 250c -> priority: 1 
+  Thread -> id: 2034 -> priority: 1 
+  Thread -> id: 2838 -> priority: 1 

@@ -6,10 +6,10 @@ using UnityEngine;
 public class DebugHelper : MonoBehaviour
 {
     public Text PlayerPos;
-    public Text PlayerSpeed;
+    //public Text PlayerSpeed;
     GameObject Player;
 
-    public bool GPP;
+    public bool show;
 
     void Start ()
     {
@@ -18,14 +18,23 @@ public class DebugHelper : MonoBehaviour
 	
 	void Update ()
     {
-        getPlayerPos();
+        if (show)
+        {
+            getPlayerPos();
+        }
+        else
+        {
+            PlayerPos.text = null;
+        }
     }
 
     void getPlayerPos()
     {
-        if (GPP == true)
-        {
-            PlayerPos.text = "Pos:" +Player.transform.position.ToString();
-        }
+        PlayerPos.text = "Pos:" +Player.transform.position.ToString();
+    }
+
+    public void ShowOrNot()
+    {
+        show = !show;
     }
 }
