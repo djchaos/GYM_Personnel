@@ -10,7 +10,7 @@ vous pouvez aussi ouvrire mon code en allent dans
 GYM/Assets/Scripts et ouvrire individuelment mes .cs
 
 
-la Version de Unity du projet est 1.10f.
+la Version de Unity du projet est 2017 1.1f.
 
 si vous avez des sugestions, des correction et/ou des amélioration a apporter nessiter pas a men faire pars.
 il me fera plaisir de les regarders et/ou de les appliquers.
