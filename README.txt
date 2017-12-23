@@ -9,6 +9,8 @@ ouvrez le fichier GYM avec Unity
 vous pouvez aussi ouvrire mon code en allent dans
 GYM/Assets/Scripts et ouvrire individuelment mes .cs
 
+Mon Portfolio de mes jeux est aussi disponible ici et un de mes game designe.
+
 
 la Version de Unity du projet est 2017 1.1f.
 
